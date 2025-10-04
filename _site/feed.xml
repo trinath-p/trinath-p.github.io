@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-10-04T13:10:53+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Trinath Panda’s Blog</title><subtitle>A tech blog sharing thoughts, ideas, and experiences</subtitle><author><name>Trinath Panda</name><email>pandatrinath1999@gmail.com</email></author><entry><title type="html">Welcome to My Tech Blog!</title><link href="http://localhost:4000/my-first-post" rel="alternate" type="text/html" title="Welcome to My Tech Blog!" /><published>2025-01-04T00:00:00+05:30</published><updated>2025-01-04T00:00:00+05:30</updated><id>http://localhost:4000/my-first-post</id><content type="html" xml:base="http://localhost:4000/my-first-post"><![CDATA[<p>Hello there! I’m <strong>Trinath Panda</strong>, and this is the beginning of my journey in the world of blogging. I’m excited to share my thoughts, experiences, and learning with you through this platform.</p>
+
+<h2 id="what-you-can-expect">What You Can Expect</h2>
+
+<p>As a passionate developer, I’ll be writing about:</p>
+
+<ul>
+  <li><strong>Programming and Software Development</strong> - Tips, tricks, and insights from my coding journey</li>
+  <li><strong>Web Development</strong> - Both frontend and backend development experiences</li>
+  <li><strong>Technology Trends</strong> - My thoughts on emerging technologies and their impact</li>
+  <li><strong>Learning Resources</strong> - Tutorials and guides that have helped me grow</li>
+  <li><strong>Personal Projects</strong> - Sharing my projects and the lessons learned along the way</li>
+</ul>
+
+<h2 id="why-i-started-this-blog">Why I Started This Blog</h2>
+
+<p>I believe in the power of sharing knowledge and learning from the community. Through this blog, I aim to:</p>
+
+<ul>
+  <li>Document my learning journey and experiences</li>
+  <li>Help fellow developers who might be facing similar challenges</li>
+  <li>Contribute to the tech community by sharing useful resources</li>
+  <li>Connect with like-minded individuals in the tech world</li>
+</ul>
+
+<p>Welcome to my personal space on the internet! I hope you find the content engaging and useful. Feel free to reach out if you’d like to connect or have any questions.</p>
+
+<p>Stay tuned for more content coming soon!</p>]]></content><author><name>Trinath Panda</name><email>pandatrinath1999@gmail.com</email></author><summary type="html"><![CDATA[Hello there! I’m Trinath Panda, and this is the beginning of my journey in the world of blogging. I’m excited to share my thoughts, experiences, and learning with you through this platform.]]></summary></entry></feed>
