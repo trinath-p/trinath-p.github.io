@@ -52,19 +52,10 @@
       <section id="main_content">
         <div class="posts">
   
-    <article class="post">
-      <h2><a href="/my-first-post">Welcome to My Tech Blog!</a></h2>
-      <div class="date">
-        October  4, 2025
-      </div>
-      <div class="entry">
-        <p>Hello there! I’m <strong>Trinath Panda</strong>, and this is the beginning of my journey in the world of blogging. I’m excited to share my thoughts, experiences, and learning with you through this platform.</p>
-
-      </div>
-      <a href="/my-first-post" class="read-more">Read More</a>
-    </article>
-  
-    <article class="post">
+    <article class="post latest-post">
+      
+        <div class="latest-badge">Latest Post</div>
+      
       <h2><a href="/getting-started-with-dsjson-python-package">Getting Started with the `dsjson` Python Package</a></h2>
       <div class="date">
         October  4, 2025
@@ -77,7 +68,104 @@
       <a href="/getting-started-with-dsjson-python-package" class="read-more">Read More</a>
     </article>
   
-</div><!-- Build trigger: 10/04/2025 14:10:58 -->
+    <article class="post ">
+      
+      <h2><a href="/my-first-post">Welcome to My Tech Blog!</a></h2>
+      <div class="date">
+        January  1, 2025
+      </div>
+      <div class="entry">
+        <p>Hello there! I’m <strong>Trinath Panda</strong>, and this is the beginning of my journey in the world of blogging. I’m excited to share my thoughts, experiences, and learning with you through this platform.</p>
+
+      </div>
+      <a href="/my-first-post" class="read-more">Read More</a>
+    </article>
+  
+</div>
+
+<style>
+.latest-post {
+  border: 2px solid #4a9eff;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  color: #333;
+}
+
+.latest-badge {
+  display: inline-block;
+  background: #4a9eff;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.8em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.post {
+  margin-bottom: 40px;
+  padding: 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  color: #e0e0e0;
+}
+
+.post:last-child {
+  border-bottom: none;
+}
+
+.post h2 a {
+  color: #e0e0e0;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.post h2 a:hover {
+  color: #4a9eff;
+}
+
+.read-more {
+  display: inline-block;
+  background: transparent;
+  color: #e0e0e0;
+  border: 1px solid #4a9eff;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  margin-top: 10px;
+}
+
+.read-more:hover {
+  background: #4a9eff;
+  color: white;
+}
+
+.date {
+  color: #b0b0b0;
+  font-size: 0.9em;
+  margin-bottom: 10px;
+}
+
+.latest-post .date {
+  color: #666;
+}
+
+.latest-post .post h2 a {
+  color: #333;
+}
+
+.latest-post .post h2 a:hover {
+  color: #4a9eff;
+}
+</style>
 
       </section>
     </div>

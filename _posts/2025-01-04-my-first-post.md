@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to My Tech Blog!"
-date: 2025-10-04
+date: 2025-01-01
 ---
 
 Hello there! I'm **Trinath Panda**, and this is the beginning of my journey in the world of blogging. I'm excited to share my thoughts, experiences, and learning with you through this platform.

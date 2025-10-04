@@ -12,43 +12,6 @@
     </author>
     
       <item>
-        <title>Welcome to My Tech Blog!</title>
-        <description>&lt;p&gt;Hello there! I’m &lt;strong&gt;Trinath Panda&lt;/strong&gt;, and this is the beginning of my journey in the world of blogging. I’m excited to share my thoughts, experiences, and learning with you through this platform.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-you-can-expect&quot;&gt;What You Can Expect&lt;/h2&gt;
-
-&lt;p&gt;As a passionate developer, I’ll be writing about:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Programming and Software Development&lt;/strong&gt; - Tips, tricks, and insights from my coding journey&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Web Development&lt;/strong&gt; - Both frontend and backend development experiences&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Technology Trends&lt;/strong&gt; - My thoughts on emerging technologies and their impact&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Learning Resources&lt;/strong&gt; - Tutorials and guides that have helped me grow&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Personal Projects&lt;/strong&gt; - Sharing my projects and the lessons learned along the way&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;why-i-started-this-blog&quot;&gt;Why I Started This Blog&lt;/h2&gt;
-
-&lt;p&gt;I believe in the power of sharing knowledge and learning from the community. Through this blog, I aim to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Document my learning journey and experiences&lt;/li&gt;
-  &lt;li&gt;Help fellow developers who might be facing similar challenges&lt;/li&gt;
-  &lt;li&gt;Contribute to the tech community by sharing useful resources&lt;/li&gt;
-  &lt;li&gt;Connect with like-minded individuals in the tech world&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Welcome to my personal space on the internet! I hope you find the content engaging and useful. Feel free to reach out if you’d like to connect or have any questions.&lt;/p&gt;
-
-&lt;p&gt;Stay tuned for more content coming soon!&lt;/p&gt;
-</description>
-        <pubDate>Sat, 04 Oct 2025 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000//my-first-post</link>
-        <link href="http://localhost:4000/my-first-post"/>
-        <guid isPermaLink="true">http://localhost:4000/my-first-post</guid>
-      </item>
-    
-      <item>
         <title>Getting Started with the `dsjson` Python Package</title>
         <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Dataset-JSON is a new CDISC standard for data exchange. It’s lightweight, machine-readable, and FDA-supported. This stands against the limitations of the SAS XPT format.&lt;/p&gt;
@@ -341,6 +304,43 @@ It automatically creates the &lt;code class=&quot;language-plaintext highlighter
         <link>http://localhost:4000//getting-started-with-dsjson-python-package</link>
         <link href="http://localhost:4000/getting-started-with-dsjson-python-package"/>
         <guid isPermaLink="true">http://localhost:4000/getting-started-with-dsjson-python-package</guid>
+      </item>
+    
+      <item>
+        <title>Welcome to My Tech Blog!</title>
+        <description>&lt;p&gt;Hello there! I’m &lt;strong&gt;Trinath Panda&lt;/strong&gt;, and this is the beginning of my journey in the world of blogging. I’m excited to share my thoughts, experiences, and learning with you through this platform.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-you-can-expect&quot;&gt;What You Can Expect&lt;/h2&gt;
+
+&lt;p&gt;As a passionate developer, I’ll be writing about:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Programming and Software Development&lt;/strong&gt; - Tips, tricks, and insights from my coding journey&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Web Development&lt;/strong&gt; - Both frontend and backend development experiences&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Technology Trends&lt;/strong&gt; - My thoughts on emerging technologies and their impact&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Learning Resources&lt;/strong&gt; - Tutorials and guides that have helped me grow&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Personal Projects&lt;/strong&gt; - Sharing my projects and the lessons learned along the way&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-i-started-this-blog&quot;&gt;Why I Started This Blog&lt;/h2&gt;
+
+&lt;p&gt;I believe in the power of sharing knowledge and learning from the community. Through this blog, I aim to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Document my learning journey and experiences&lt;/li&gt;
+  &lt;li&gt;Help fellow developers who might be facing similar challenges&lt;/li&gt;
+  &lt;li&gt;Contribute to the tech community by sharing useful resources&lt;/li&gt;
+  &lt;li&gt;Connect with like-minded individuals in the tech world&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Welcome to my personal space on the internet! I hope you find the content engaging and useful. Feel free to reach out if you’d like to connect or have any questions.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for more content coming soon!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000//my-first-post</link>
+        <link href="http://localhost:4000/my-first-post"/>
+        <guid isPermaLink="true">http://localhost:4000/my-first-post</guid>
       </item>
     
   </channel>
