@@ -250,13 +250,19 @@ bundle exec jekyll build
 
 ### Deploy to GitHub Pages
 
+**Important:** See **`GITHUB_PAGES_SETUP.md`** for first-time deployment setup!
+
+You need to change your repository settings to use **GitHub Actions** instead of the default build.
+
+After initial setup, deploying is simple:
+
 ```bash
 git add .
 git commit -m "Your commit message"
 git push origin main
 ```
 
-GitHub Pages will automatically build and deploy your site.
+GitHub Actions will automatically build and deploy your site (takes 2-3 minutes).
 
 ---
 

@@ -12,6 +12,10 @@ group :jekyll_plugins do
   gem "jekyll-archives", "~> 2.2"
 end
 
+group :test do
+  gem "html-proofer", "~> 5.0"
+end
+
 # Ruby 3.4+ compatibility - these gems are no longer in the default bundle
 gem "logger"
 gem "csv"
