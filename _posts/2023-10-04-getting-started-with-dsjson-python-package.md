@@ -1,7 +1,9 @@
 ---
 layout: post
-title: 'Getting Started with the `dsjson` Python Package'
-date: 2025-10-04
+title: 'Getting Started with the dsjson Python Package'
+date: 2023-10-04 00:00:00 +0000
+categories: [Python]
+tags: [python, dsjson, dataset-json, cdisc, clinical-data]
 ---
 
 ## Introduction

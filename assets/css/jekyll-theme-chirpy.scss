@@ -1,0 +1,42 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* Custom styles - Reduce sidebar width */
+:root {
+  --sidebar-width: 200px; /* Default is 260px, reduced to 200px */
+}
+
+/* Ensure the main content adjusts accordingly */
+@media (min-width: 850px) {
+  #sidebar {
+    width: var(--sidebar-width);
+  }
+  
+  #main-wrapper {
+    margin-left: var(--sidebar-width);
+  }
+}
+
+/* Adjust avatar size slightly for the narrower sidebar */
+#sidebar #avatar {
+  width: 6rem; /* Slightly smaller from default 7rem */
+  height: 6rem;
+}
+
+/* Adjust site title font size for narrower sidebar */
+#sidebar .site-title {
+  font-size: 1.4rem; /* Slightly smaller from default 1.5rem */
+}
+
+/* Adjust site subtitle font size */
+#sidebar .site-subtitle {
+  font-size: 0.85rem;
+}
+
