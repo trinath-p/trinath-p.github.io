@@ -1,14 +1,13 @@
 ---
 title: "Building My Personal Blog: A Journey from Idea to Deployment"
 date: 2025-01-06 10:00:00 +0000
-categories: [web-development, blogging, jekyll]
+categories: [blogging, my-blog-website]
 tags: [github-pages, jekyll, giscus, analytics, seo]
 toc: true
 ---
 
-## The Beginning: Why I Started This Blog
 
-After years of working in clinical data standards and Python development, I realized I had accumulated a wealth of knowledge and experiences that could benefit others in the field. The idea of sharing my insights, tutorials, and industry observations through a personal blog had been brewing in my mind for months. Finally, in late 2025, I decided to take the plunge and build my own corner of the internet.
+After years of working in clinical data standards and Python development, I realized I had accumulated a wealth of knowledge and experiences that could benefit others in the field. The idea of sharing my insights, tutorials, and industry observations through a personal blog had been brewing in my mind for months. Finally, in late 2025, I decided to take the plunge and build my own corner of the internet. Mainly I solved my biggest nightmare, a full markdown supported + GitHub integration system.
 
 ## Choosing the Right Technology Stack
 
@@ -93,48 +92,6 @@ One interesting challenge I encountered was with the sitemap generation. Initial
 
 **Solution**: The issue resolved itself when I deployed to GitHub Pages, as the production build correctly generated URLs with the proper domain. This taught me the importance of testing in a production-like environment.
 
-### Content Strategy
-
-Starting with zero content was daunting. I decided to:
-
-1. **Start with one high-quality post** about my experience with the DSJSON Python package
-2. **Focus on value** rather than quantity
-3. **Plan a regular publishing schedule**
-4. **Write about topics I'm genuinely passionate about**
-
-## The Technical Implementation
-
-### Site Structure
-
-My blog follows a clean, organized structure:
-
-```
-trinathpanda.github.io/
-├── _config.yml          # Site configuration
-├── _posts/              # Blog posts (Markdown)
-├── _tabs/               # Static pages (About, Archives, etc.)
-├── assets/              # Images, CSS, JS
-└── _includes/           # Reusable components
-```
-
-### Writing Workflow
-
-I've established a simple but effective workflow:
-
-1. **Write in Markdown** - Clean, distraction-free writing
-2. **Preview locally** - Test formatting and links
-3. **Commit and push** - Deploy automatically via GitHub Pages
-4. **Monitor analytics** - Track engagement and performance
-
-### SEO Optimization
-
-The Chirpy theme handles most SEO automatically, but I've also:
-
-- Written descriptive meta descriptions
-- Used semantic HTML structure
-- Optimized images with alt text
-- Created a logical internal linking structure
-- Set up proper canonical URLs
 
 ## Lessons Learned
 
@@ -152,7 +109,6 @@ I'll be transparent: AI and modern development tools played a significant role i
 - **Technical troubleshooting** - Solving configuration issues and debugging problems
 - **Learning new technologies** - Understanding Jekyll, GitHub Pages, and web development concepts
 - **Code generation and optimization** - Writing configuration files and implementing features
-- **Content creation** - Structuring and writing blog posts with AI assistance
 - **Real-time guidance** - Getting instant help with technical decisions
 
 The AI-powered development environment didn't replace my expertise or creativity—it amplified them. It helped me focus on what matters most: creating valuable content for my readers while learning and building efficiently. This represents the future of web development, where human creativity is enhanced by intelligent tools.
