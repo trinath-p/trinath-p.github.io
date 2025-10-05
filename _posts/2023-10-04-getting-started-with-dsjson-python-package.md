@@ -13,6 +13,8 @@ I welcome your feedback. If you spot a bug, would like to see a new feature, or 
 
 In this post, we’ll walk through a small example dataset and a specification file, and show how to work with them using `dsjson`.  
 
+---
+
 ## Example Dataset and Specification
 I have created a synthetic patient demographic dataset: 
 
@@ -33,6 +35,7 @@ Here is the sample dataset specification:
 | Sex | Sex |Char | 1 | N/A |
 | BirthDate | Date of Birth | Char | 10 | YYYY-MM-DD |
 
+---
 
 ## Installation
 
@@ -42,6 +45,7 @@ You can install `dsjson` with `pip`
 pip install dsjson
 ```
 
+---
 
 ## DSJSON in action
 
@@ -71,6 +75,8 @@ print(df)
 # 3      P004   42   F  2025-04-20
 # 4      P005   31   M  2025-05-18
 ```
+
+---
 
 ### Create column metadata for the Data
 
@@ -103,6 +109,8 @@ print(colum_metadata)
 # 3  IT.DM.BirthDate  BirthDate       Date of Birth   string      10            4
 ```
 
+---
+
 ### Write to Dataset-JSON
 
 The main function of the dsjson package simplifies writing top-level metadata.
@@ -129,6 +137,8 @@ with open(r"C:\Downloads\dm.json", "w") as f:
     json.dump(dm, f, indent=4)
 
 ```
+
+---
 
 Here is the final dataset-JSON:
 ``` json
@@ -216,6 +226,8 @@ Here is the final dataset-JSON:
     ]
 }
 ```
+
+---
 
 ## Wrap-up
 
