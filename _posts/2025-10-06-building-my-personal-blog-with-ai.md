@@ -1,6 +1,6 @@
 ---
 title: "Building My Personal Blog: A Journey from Idea to Deployment"
-date: 2025-01-06 10:00:00 +0000
+date: 2025-10-06 10:00:00 +0000
 categories: [Web Development, My Blog Website]
 tags: [github-pages, jekyll, giscus, analytics, seo]
 toc: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building My First FHIR based Patient Management Web App with AI"
-date: 2025-01-27 10:00:00 +0000
+date: 2025-10-06 10:00:00 +0000
 categories: [Web Development, Patient Management App]
 tags: [fastapi, healthcare, web-app, learning, ai-assistance]
 ---
