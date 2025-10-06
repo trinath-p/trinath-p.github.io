@@ -131,9 +131,9 @@ I have created a FHIR based Patient Management Application just using AI. Don't 
 7. “Pathling: analytics on FHIR” — analytics support for FHIR in research settings ([jbiomedsem.biomedcentral.com][7])
 
 [1]: https://en.wikipedia.org/wiki/Fast_Healthcare_Interoperability_Resources?utm_source=chatgpt.com "Fast Healthcare Interoperability Resources"
-[2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8367140/?utm_source=chatgpt.com "The Fast Health Interoperability Resources (FHIR) Standard"
-[3]: https://build.fhir.org/fhir-glossy.pdf?utm_source=chatgpt.com "[PDF] Introducing HL7 FHIR®"
-[4]: https://www.healthit.gov/isp/fhir-introduction?utm_source=chatgpt.com "Introduction | Interoperability Standards Platform (ISP)"
-[5]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10298100/?utm_source=chatgpt.com "Transforming Healthcare Analytics with FHIR: A Framework ..."
-[6]: https://fire.ly/blog/the-state-of-fhir-in-2025/?utm_source=chatgpt.com "The State of FHIR in 2025: Growing adoption and evolving ..."
-[7]: https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-022-00277-1?utm_source=chatgpt.com "Pathling: analytics on FHIR | Journal of Biomedical Semantics"
+[2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC8367140 "The Fast Health Interoperability Resources (FHIR) Standard"
+[3]: https://build.fhir.org/fhir-glossy.pdf "[PDF] Introducing HL7 FHIR®"
+[4]: https://www.healthit.gov/isp/fhir-introduction "Introduction | Interoperability Standards Platform (ISP)"
+[5]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10298100 "Transforming Healthcare Analytics with FHIR: A Framework ..."
+[6]: https://fire.ly/blog/the-state-of-fhir-in-2025 "The State of FHIR in 2025: Growing adoption and evolving ..."
+[7]: https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-022-00277-1 "Pathling: analytics on FHIR | Journal of Biomedical Semantics"
